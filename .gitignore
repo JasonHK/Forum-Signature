@@ -1,0 +1,4 @@
+.directory
+
+images/*
+!images/index.html
